@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AppChamCong_API.props" />
+</Project>
